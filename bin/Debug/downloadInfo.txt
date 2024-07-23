@@ -1,0 +1,2 @@
+python-3.12.2-amd64.exe,C:\Users\ashis\Downloads\Compressed\python-3.12.2-amd64.exe,Downloaded,26667456,C:\Users\ashis\Downloads\Compressed\python-3.12.2-amd64.exe,Programs
+admission-2023-24.jpg,C:\Users\ashis\OneDrive\Desktop\admission-2023-24.jpg,Downloaded,288629,C:\Users\ashis\OneDrive\Desktop\admission-2023-24.jpg,Images
