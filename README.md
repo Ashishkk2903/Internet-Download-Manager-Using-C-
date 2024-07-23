@@ -1,1 +1,1 @@
-# Internet-Download-Manager-Using-C-
+# Internet-Download-Manager
